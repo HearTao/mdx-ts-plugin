@@ -8,9 +8,10 @@
         "sourceMap": true,
         "declarationMap": true,
         "moduleResolution": "node",
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "jsx": "preserve"
     },
     "include": [
-        "src",
+        "src"
     ]
 }
